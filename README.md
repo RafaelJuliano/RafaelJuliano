@@ -23,7 +23,7 @@ My experience extends from initial design and architecture all the way through t
 [![Tecnologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFBF&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express,jest,php,graphql,docker,laravel,aws,dynamodb,mongodb,postgres,mysql,redis,react,nestjs,redux,styledcomponents,linux,postman,vscode," />
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express,jest,php,graphql,docker,laravel,aws,dynamodb,mongodb,postgres,mysql,redis,react,vuejs,nestjs,redux,styledcomponents,electron,linux,postman,vscode" />
 </div>
 
 </div>
